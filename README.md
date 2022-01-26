@@ -1,7 +1,7 @@
 # Frontend Mentor - QR code component
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
-live preview link : 
+live preview link : https://qr-code-component-react-js.netlify.app/
 <br />
 ## Getting Started with Create React App
 
